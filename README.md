@@ -1,7 +1,7 @@
 # Welcome to my github
 ___
 About my:
-I am from Switzerland and I develop my own projects.
+I am from Switzerland and I develop my own projects.  
 Language: German (is preferred for personal use) English (for the projects) 
 
 
